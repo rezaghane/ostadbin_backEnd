@@ -1,0 +1,739 @@
+[15-Feb-2022 14:36:03 Asia/Tehran] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/tabibest/public_html/api_UTadris/database.php:78
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/database.php(78): PDOStatement->execute()
+#1 /home/tabibest/public_html/api_UTadris/savPrd.php(33): Database->execute()
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/database.php on line 78
+[16-Feb-2022 16:26:36 Asia/Tehran] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'tabibest_u_tadris.azm' doesn't exist' in /home/tabibest/public_html/api_UTadris/database.php:78
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/database.php(78): PDOStatement->execute()
+#1 /home/tabibest/public_html/api_UTadris/database.php(83): Database->execute()
+#2 /home/tabibest/public_html/api_UTadris/savPrd.php(16): Database->resultSet()
+#3 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/database.php on line 78
+[16-Feb-2022 16:26:45 Asia/Tehran] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'tabibest_u_tadris.azm' doesn't exist' in /home/tabibest/public_html/api_UTadris/database.php:78
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/database.php(78): PDOStatement->execute()
+#1 /home/tabibest/public_html/api_UTadris/database.php(83): Database->execute()
+#2 /home/tabibest/public_html/api_UTadris/savPrd.php(16): Database->resultSet()
+#3 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/database.php on line 78
+[16-Feb-2022 16:29:28 Asia/Tehran] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'tabibest_u_tadris.azm' doesn't exist' in /home/tabibest/public_html/api_UTadris/database.php:78
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/database.php(78): PDOStatement->execute()
+#1 /home/tabibest/public_html/api_UTadris/database.php(83): Database->execute()
+#2 /home/tabibest/public_html/api_UTadris/savPrd.php(16): Database->resultSet()
+#3 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/database.php on line 78
+[16-Feb-2022 18:21:29 Asia/Tehran] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/tabibest/public_html/api_UTadris/database.php:78
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/database.php(78): PDOStatement->execute()
+#1 /home/tabibest/public_html/api_UTadris/savPrd.php(33): Database->execute()
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/database.php on line 78
+[16-Feb-2022 19:05:55 Asia/Tehran] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/tabibest/public_html/api_UTadris/database.php:78
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/database.php(78): PDOStatement->execute()
+#1 /home/tabibest/public_html/api_UTadris/savPrd.php(33): Database->execute()
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/database.php on line 78
+[26-Mar-2022 10:58:25 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1' in /home/tabibest/public_html/api_UTadris/database.php:78
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/database.php(78): PDOStatement->execute()
+#1 /home/tabibest/public_html/api_UTadris/database.php(83): Database->execute()
+#2 /home/tabibest/public_html/api_UTadris/prdOnline.php(15): Database->resultSet()
+#3 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/database.php on line 78
+[26-Mar-2022 10:58:35 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1' in /home/tabibest/public_html/api_UTadris/database.php:78
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/database.php(78): PDOStatement->execute()
+#1 /home/tabibest/public_html/api_UTadris/database.php(83): Database->execute()
+#2 /home/tabibest/public_html/api_UTadris/prdOnline.php(15): Database->resultSet()
+#3 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/database.php on line 78
+[26-Mar-2022 10:58:50 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1' in /home/tabibest/public_html/api_UTadris/database.php:78
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/database.php(78): PDOStatement->execute()
+#1 /home/tabibest/public_html/api_UTadris/database.php(83): Database->execute()
+#2 /home/tabibest/public_html/api_UTadris/prdOnline.php(15): Database->resultSet()
+#3 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/database.php on line 78
+[28-Mar-2022 16:37:50 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1' in /home/tabibest/public_html/api_UTadris/database.php:78
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/database.php(78): PDOStatement->execute()
+#1 /home/tabibest/public_html/api_UTadris/database.php(83): Database->execute()
+#2 /home/tabibest/public_html/api_UTadris/prdOnline.php(15): Database->resultSet()
+#3 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/database.php on line 78
+[12-Jun-2022 11:08:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tabibest/public_html/api_UTadris/prdOnline.php:47) in /home/tabibest/public_html/api_UTadris/prdOnline.php on line 48
+[12-Jun-2022 11:10:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tabibest/public_html/api_UTadris/prdOnline.php:47) in /home/tabibest/public_html/api_UTadris/prdOnline.php on line 50
+[12-Jun-2022 15:59:48 Asia/Tehran] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'دریافت کننده نامعتبر است' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '98378444550', 'salam')
+#2 /home/tabibest/public_html/api_UTadris/savPrd.php(22): require_once('/home/tabibest/...')
+#3 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[12-Jun-2022 16:00:40 Asia/Tehran] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'دریافت کننده نامعتبر است' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '98378444550', 'salam')
+#2 /home/tabibest/public_html/api_UTadris/savPrd.php(23): require_once('/home/tabibest/...')
+#3 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[12-Jun-2022 16:17:54 Asia/Tehran] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IN (54)
+ORDER BY reserved.id DESC
+LIMIT 1' at line 6' in /home/tabibest/public_html/api_UTadris/database.php:78
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/database.php(78): PDOStatement->execute()
+#1 /home/tabibest/public_html/api_UTadris/database.php(83): Database->execute()
+#2 /home/tabibest/public_html/api_UTadris/savPrd.php(28): Database->resultSet()
+#3 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/database.php on line 78
+[12-Jun-2022 16:17:56 Asia/Tehran] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IN (54)
+ORDER BY reserved.id DESC
+LIMIT 1' at line 6' in /home/tabibest/public_html/api_UTadris/database.php:78
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/database.php(78): PDOStatement->execute()
+#1 /home/tabibest/public_html/api_UTadris/database.php(83): Database->execute()
+#2 /home/tabibest/public_html/api_UTadris/savPrd.php(28): Database->resultSet()
+#3 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/database.php on line 78
+[12-Jun-2022 16:18:13 Asia/Tehran] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IN (54)
+ORDER BY reserved.id DESC
+LIMIT 1' at line 6' in /home/tabibest/public_html/api_UTadris/database.php:78
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/database.php(78): PDOStatement->execute()
+#1 /home/tabibest/public_html/api_UTadris/database.php(83): Database->execute()
+#2 /home/tabibest/public_html/api_UTadris/savPrd.php(28): Database->resultSet()
+#3 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/database.php on line 78
+[12-Jun-2022 16:18:14 Asia/Tehran] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IN (54)
+ORDER BY reserved.id DESC
+LIMIT 1' at line 6' in /home/tabibest/public_html/api_UTadris/database.php:78
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/database.php(78): PDOStatement->execute()
+#1 /home/tabibest/public_html/api_UTadris/database.php(83): Database->execute()
+#2 /home/tabibest/public_html/api_UTadris/savPrd.php(28): Database->resultSet()
+#3 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/database.php on line 78
+[12-Jun-2022 16:18:15 Asia/Tehran] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IN (54)
+ORDER BY reserved.id DESC
+LIMIT 1' at line 6' in /home/tabibest/public_html/api_UTadris/database.php:78
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/database.php(78): PDOStatement->execute()
+#1 /home/tabibest/public_html/api_UTadris/database.php(83): Database->execute()
+#2 /home/tabibest/public_html/api_UTadris/savPrd.php(28): Database->resultSet()
+#3 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/database.php on line 78
+[12-Jun-2022 16:19:58 Asia/Tehran] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IN (54)
+ORDER BY reserved.id DESC
+LIMIT 1' at line 6' in /home/tabibest/public_html/api_UTadris/database.php:78
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/database.php(78): PDOStatement->execute()
+#1 /home/tabibest/public_html/api_UTadris/database.php(83): Database->execute()
+#2 /home/tabibest/public_html/api_UTadris/savPrd.php(28): Database->resultSet()
+#3 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/database.php on line 78
+[12-Jun-2022 16:23:10 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tabibest/public_html/api_UTadris/sendSms.php:10) in /home/tabibest/public_html/api_UTadris/savPrd.php on line 46
+[12-Jun-2022 16:23:13 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tabibest/public_html/api_UTadris/sendSms.php:10) in /home/tabibest/public_html/api_UTadris/savPrd.php on line 46
+[12-Jun-2022 16:23:33 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tabibest/public_html/api_UTadris/sendSms.php:10) in /home/tabibest/public_html/api_UTadris/savPrd.php on line 46
+[12-Jun-2022 16:25:00 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tabibest/public_html/api_UTadris/sendSms.php:10) in /home/tabibest/public_html/api_UTadris/savPrd.php on line 46
+[12-Jun-2022 16:27:47 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tabibest/public_html/api_UTadris/sendSms.php:10) in /home/tabibest/public_html/api_UTadris/savPrd.php on line 47
+[14-Oct-2022 21:47:57 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'دسترسی به اطلاعات مورد نظر برای شما امکان پذیر نیست' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989166344907', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[14-Oct-2022 21:48:20 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'دسترسی به اطلاعات مورد نظر برای شما امکان پذیر نیست' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989166344907', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[15-Oct-2022 00:17:41 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'دسترسی به اطلاعات مورد نظر برای شما امکان پذیر نیست' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989134062348', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[16-Oct-2022 06:40:24 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989337200943', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[16-Oct-2022 06:43:16 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989337200943', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[16-Oct-2022 13:06:43 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989900271092', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[16-Oct-2022 13:08:39 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989900271092', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[17-Oct-2022 00:48:03 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989166344907', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[17-Oct-2022 08:34:22 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989395294853', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[17-Oct-2022 15:11:19 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989166344907', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[19-Oct-2022 01:15:32 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989013498675', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[19-Oct-2022 01:16:06 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989013498675', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[19-Oct-2022 09:17:48 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989302698411', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[19-Oct-2022 09:29:51 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989302698411', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[19-Oct-2022 12:34:32 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989198302317', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[23-Oct-2022 19:42:09 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989175413576', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[24-Oct-2022 16:51:48 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989046501002', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[27-Oct-2022 22:11:36 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989376930224', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[27-Oct-2022 22:13:50 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989376930224', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[27-Oct-2022 22:14:42 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989376930224', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[27-Oct-2022 22:16:11 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989376930224', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[27-Oct-2022 22:18:49 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989376930224', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[28-Oct-2022 05:56:47 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989376930224', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[05-Nov-2022 12:43:33 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989305637559', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[12-Nov-2022 11:00:27 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989333647458', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[12-Nov-2022 16:46:41 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989160066727', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[12-Nov-2022 16:47:22 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989160066727', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[12-Nov-2022 16:50:22 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989160066727', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[15-Nov-2022 10:26:24 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989356909331', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[15-Nov-2022 13:24:26 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989908257221', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[15-Nov-2022 13:29:54 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989908257221', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[17-Nov-2022 07:45:14 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989334979365', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[22-Nov-2022 17:54:24 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989396618872', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[22-Nov-2022 21:45:01 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989334780136', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[23-Nov-2022 16:32:18 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989023186933', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[02-Dec-2022 08:56:55 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989024512661', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[04-Dec-2022 08:32:00 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989173237740', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[04-Dec-2022 08:33:17 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989173237740', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[10-Dec-2022 18:13:24 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989922326591', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[10-Dec-2022 18:14:31 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989922326591', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[10-Dec-2022 18:15:33 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989922326591', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[19-Dec-2022 08:09:02 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989192964163', '\xDA\xAF\xD8\xB0\xD8\xB1\xD9\x88\xD8\xA7\xDA\x98\xD9\x87 ...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[19-Dec-2022 08:09:13 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989192964163', '\xDA\xAF\xD8\xB0\xD8\xB1\xD9\x88\xD8\xA7\xDA\x98\xD9\x87 ...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[25-Dec-2022 01:10:23 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989927001404', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[25-Dec-2022 01:11:42 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989927001404', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[21-Jan-2023 07:09:16 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989059414733', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[21-Jan-2023 07:11:07 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989029414733', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[21-Jan-2023 07:11:19 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989059414733', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[29-Jan-2023 19:02:23 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989352288471', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[29-Jan-2023 19:04:25 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989352288471', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[30-Jan-2023 11:02:07 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989168826544', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[30-Jan-2023 11:02:46 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989168826544', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[01-Feb-2023 12:28:03 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989135329428', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[01-Feb-2023 12:29:59 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989135329428', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[01-Feb-2023 12:30:39 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989135329428', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[01-Feb-2023 12:31:39 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989135329428', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[01-Feb-2023 12:32:29 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989135329428', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[07-Feb-2023 11:20:19 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989380612150', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[08-Feb-2023 18:38:43 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989165064532', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[08-Feb-2023 18:39:57 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989165064532', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[08-Feb-2023 18:41:07 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989165064532', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[08-Feb-2023 18:41:55 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989165064532', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[08-Feb-2023 18:42:17 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989165064532', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[08-Feb-2023 18:42:59 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989165064532', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[26-Feb-2023 10:40:30 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989051455690', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[26-Feb-2023 10:49:31 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989051455690', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[26-Feb-2023 10:50:44 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989904306034', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[29-Mar-2023 16:06:09 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989199135671', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[29-Mar-2023 16:09:09 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989199135671', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[29-Mar-2023 16:13:23 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989392052463', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[02-Apr-2023 02:17:51 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989058548515', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[02-Apr-2023 02:18:40 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989058548515', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[04-Apr-2023 06:18:35 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989026552636', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[04-Apr-2023 06:19:45 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989026552636', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[06-Apr-2023 20:59:36 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989020648815', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[06-Apr-2023 21:01:41 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989020648815', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[07-Apr-2023 18:02:25 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989371447600', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[07-Apr-2023 18:03:10 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989147420287', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[07-Apr-2023 18:04:43 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989147420287', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[12-Apr-2023 14:13:16 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989915074191', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[12-Apr-2023 14:14:43 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989915074191', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[17-May-2023 02:22:04 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989923234564', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[17-May-2023 02:22:28 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989922930314', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[17-May-2023 02:22:32 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989922930314', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[17-May-2023 02:23:35 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989922930314', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[17-May-2023 02:24:59 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989373234564', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[17-May-2023 02:26:36 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989373234564', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[17-May-2023 02:27:19 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989923230314', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[17-May-2023 02:28:45 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989373230314', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[17-May-2023 02:37:54 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989922930314', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[21-May-2023 04:34:00 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989929122856', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[21-May-2023 18:55:02 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989123237944', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[03-Jun-2023 17:40:17 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989128153844', '\xDA\xAF\xD8\xB0\xD8\xB1\xD9\x88\xD8\xA7\xDA\x98\xD9\x87 ...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[03-Jun-2023 17:40:48 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989128153844', '\xDA\xAF\xD8\xB0\xD8\xB1\xD9\x88\xD8\xA7\xDA\x98\xD9\x87 ...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[13-Jun-2023 17:39:47 Asia/Tehran] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/savPrd.php(48): Kavenegar\KavenegarApi->Send('10004444000404', '989121892029', '\xDB\x8C\xDA\xA9 \xD8\xAF\xD8\xB1\xD8\xAE\xD9\x88\xD8\xA7...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[28-Jun-2023 12:35:58 Asia/Tehran] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/savPrd.php(48): Kavenegar\KavenegarApi->Send('10004444000404', '989121892029', '\xDB\x8C\xDA\xA9 \xD8\xAF\xD8\xB1\xD8\xAE\xD9\x88\xD8\xA7...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[24-Jul-2023 13:03:21 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989127973918', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
+[24-Jul-2023 16:37:42 Asia/Tehran] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/tabibest/public_html/api_UTadris/database.php:78
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/database.php(78): PDOStatement->execute()
+#1 /home/tabibest/public_html/api_UTadris/database.php(83): Database->execute()
+#2 /home/tabibest/public_html/api_UTadris/queries/chat/admin.php(57): Database->resultSet()
+#3 /home/tabibest/public_html/api_UTadris/queries/chat/chat.php(13): require_once('/home/tabibest/...')
+#4 /home/tabibest/public_html/api_UTadris/index.php(21): require_once('/home/tabibest/...')
+#5 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/database.php on line 78
+[24-Jul-2023 13:08:10 UTC] PHP Fatal error:  Uncaught exception 'Kavenegar\Exceptions\ApiException' with message 'IP سرویس مبدا با تنظیمات مطابقت ندارد' in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php:68
+Stack trace:
+#0 /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php(92): Kavenegar\KavenegarApi->execute('https://api.kav...', Array)
+#1 /home/tabibest/public_html/api_UTadris/sendSms.php(9): Kavenegar\KavenegarApi->Send('10004444000404', '989127973918', '\xDA\xA9\xD8\xAF \xD9\x88\xD8\xB1\xD9\x88\xD8\xAF \xD8...')
+#2 {main}
+  thrown in /home/tabibest/public_html/api_UTadris/vendor/kavenegar/php/src/KavenegarApi.php on line 68
